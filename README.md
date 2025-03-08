@@ -16,4 +16,3 @@ ssh user@server 'bash /path/to/blank.sh'
 **That's it!** Simple, clean, and effective. 😎  
 
 📌 **Made by [@yogeshxd](https://github.com/yogeshxd)**  
-```
